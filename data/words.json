@@ -1,0 +1,476 @@
+{
+  "English": {
+    "Базовые слова": [
+      {
+        "word": "Hello",
+        "translation": "Привет",
+        "example": "Hello, how are you?"
+      },
+      {
+        "word": "Goodbye",
+        "translation": "До свидания",
+        "example": "Goodbye, see you later!"
+      },
+      {
+        "word": "Thank you",
+        "translation": "Спасибо",
+        "example": "Thank you very much!"
+      },
+      {
+        "word": "Please",
+        "translation": "Пожалуйста",
+        "example": "Please, help me."
+      },
+      {
+        "word": "Yes",
+        "translation": "Да",
+        "example": "Yes, I agree."
+      },
+      {
+        "word": "No",
+        "translation": "Нет",
+        "example": "No, thank you."
+      },
+      {
+        "word": "Water",
+        "translation": "Вода",
+        "example": "Can I have some water?"
+      },
+      {
+        "word": "Food",
+        "translation": "Еда",
+        "example": "The food is delicious."
+      },
+      {
+        "word": "Friend",
+        "translation": "Друг",
+        "example": "He is my best friend."
+      },
+      {
+        "word": "Family",
+        "translation": "Семья",
+        "example": "I love my family."
+      }
+    ],
+    "Животные": [
+      {
+        "word": "Cat",
+        "translation": "Кошка",
+        "example": "The cat is sleeping."
+      },
+      {
+        "word": "Dog",
+        "translation": "Собака",
+        "example": "The dog is running."
+      },
+      {
+        "word": "Bird",
+        "translation": "Птица",
+        "example": "The bird is singing."
+      },
+      {
+        "word": "Fish",
+        "translation": "Рыба",
+        "example": "The fish swims in the sea."
+      },
+      {
+        "word": "Horse",
+        "translation": "Лошадь",
+        "example": "The horse runs fast."
+      },
+      {
+        "word": "Elephant",
+        "translation": "Слон",
+        "example": "The elephant is big."
+      },
+      {
+        "word": "Lion",
+        "translation": "Лев",
+        "example": "The lion is the king of animals."
+      },
+      {
+        "word": "Bear",
+        "translation": "Медведь",
+        "example": "The bear lives in the forest."
+      },
+      {
+        "word": "Rabbit",
+        "translation": "Кролик",
+        "example": "The rabbit eats carrots."
+      },
+      {
+        "word": "Wolf",
+        "translation": "Волк",
+        "example": "The wolf howls at the moon."
+      }
+    ],
+    "Цвета": [
+      {
+        "word": "Red",
+        "translation": "Красный",
+        "example": "The rose is red."
+      },
+      {
+        "word": "Blue",
+        "translation": "Синий",
+        "example": "The sky is blue."
+      },
+      {
+        "word": "Green",
+        "translation": "Зелёный",
+        "example": "The grass is green."
+      },
+      {
+        "word": "Yellow",
+        "translation": "Жёлтый",
+        "example": "The sun is yellow."
+      },
+      {
+        "word": "Black",
+        "translation": "Чёрный",
+        "example": "The cat is black."
+      },
+      {
+        "word": "White",
+        "translation": "Белый",
+        "example": "The snow is white."
+      },
+      {
+        "word": "Orange",
+        "translation": "Оранжевый",
+        "example": "The orange is orange."
+      },
+      {
+        "word": "Purple",
+        "translation": "Фиолетовый",
+        "example": "The flower is purple."
+      },
+      {
+        "word": "Pink",
+        "translation": "Розовый",
+        "example": "The dress is pink."
+      },
+      {
+        "word": "Brown",
+        "translation": "Коричневый",
+        "example": "The bear is brown."
+      }
+    ],
+    "Еда и напитки": [
+      {
+        "word": "Bread",
+        "translation": "Хлеб",
+        "example": "I eat bread for breakfast."
+      },
+      {
+        "word": "Milk",
+        "translation": "Молоко",
+        "example": "I drink milk every day."
+      },
+      {
+        "word": "Apple",
+        "translation": "Яблоко",
+        "example": "An apple a day keeps the doctor away."
+      },
+      {
+        "word": "Coffee",
+        "translation": "Кофе",
+        "example": "I like coffee in the morning."
+      },
+      {
+        "word": "Tea",
+        "translation": "Чай",
+        "example": "Would you like some tea?"
+      },
+      {
+        "word": "Cheese",
+        "translation": "Сыр",
+        "example": "This cheese is very tasty."
+      },
+      {
+        "word": "Meat",
+        "translation": "Мясо",
+        "example": "I don't eat meat."
+      },
+      {
+        "word": "Rice",
+        "translation": "Рис",
+        "example": "Rice is popular in Asia."
+      },
+      {
+        "word": "Egg",
+        "translation": "Яйцо",
+        "example": "I had eggs for breakfast."
+      },
+      {
+        "word": "Sugar",
+        "translation": "Сахар",
+        "example": "No sugar in my coffee, please."
+      }
+    ],
+    "Глаголы": [
+      {
+        "word": "To run",
+        "translation": "Бегать",
+        "example": "I run every morning."
+      },
+      {
+        "word": "To eat",
+        "translation": "Есть",
+        "example": "We eat dinner at 7 PM."
+      },
+      {
+        "word": "To sleep",
+        "translation": "Спать",
+        "example": "I sleep 8 hours a day."
+      },
+      {
+        "word": "To read",
+        "translation": "Читать",
+        "example": "She reads books every day."
+      },
+      {
+        "word": "To write",
+        "translation": "Писать",
+        "example": "He writes letters to his friend."
+      },
+      {
+        "word": "To speak",
+        "translation": "Говорить",
+        "example": "I speak three languages."
+      },
+      {
+        "word": "To learn",
+        "translation": "Учить",
+        "example": "I want to learn English."
+      },
+      {
+        "word": "To work",
+        "translation": "Работать",
+        "example": "She works in an office."
+      },
+      {
+        "word": "To play",
+        "translation": "Играть",
+        "example": "Children play in the park."
+      },
+      {
+        "word": "To travel",
+        "translation": "Путешествовать",
+        "example": "I love to travel around the world."
+      }
+    ]
+  },
+  "Deutsch": {
+    "Базовые слова": [
+      {
+        "word": "Hallo",
+        "translation": "Привет",
+        "example": "Hallo, wie geht es Ihnen?"
+      },
+      {
+        "word": "Tschüss",
+        "translation": "Пока",
+        "example": "Tschüss, bis morgen!"
+      },
+      {
+        "word": "Danke",
+        "translation": "Спасибо",
+        "example": "Danke schön!"
+      },
+      {
+        "word": "Bitte",
+        "translation": "Пожалуйста",
+        "example": "Bitte, helfen Sie mir."
+      },
+      {
+        "word": "Ja",
+        "translation": "Да",
+        "example": "Ja, ich stimme zu."
+      },
+      {
+        "word": "Nein",
+        "translation": "Нет",
+        "example": "Nein, danke."
+      },
+      {
+        "word": "Wasser",
+        "translation": "Вода",
+        "example": "Kann ich Wasser haben?"
+      },
+      {
+        "word": "Essen",
+        "translation": "Еда",
+        "example": "Das Essen ist lecker."
+      },
+      {
+        "word": "Freund",
+        "translation": "Друг",
+        "example": "Er ist mein bester Freund."
+      },
+      {
+        "word": "Familie",
+        "translation": "Семья",
+        "example": "Ich liebe meine Familie."
+      }
+    ],
+    "Животные": [
+      {
+        "word": "Katze",
+        "translation": "Кошка",
+        "example": "Die Katze schläft."
+      },
+      {
+        "word": "Hund",
+        "translation": "Собака",
+        "example": "Der Hund läuft."
+      },
+      {
+        "word": "Vogel",
+        "translation": "Птица",
+        "example": "Der Vogel singt."
+      },
+      {
+        "word": "Fisch",
+        "translation": "Рыба",
+        "example": "Der Fisch schwimmt im Meer."
+      },
+      {
+        "word": "Pferd",
+        "translation": "Лошадь",
+        "example": "Das Pferd läuft schnell."
+      },
+      {
+        "word": "Elefant",
+        "translation": "Слон",
+        "example": "Der Elefant ist groß."
+      },
+      {
+        "word": "Löwe",
+        "translation": "Лев",
+        "example": "Der Löwe ist der König der Tiere."
+      },
+      {
+        "word": "Bär",
+        "translation": "Медведь",
+        "example": "Der Bär lebt im Wald."
+      },
+      {
+        "word": "Kaninchen",
+        "translation": "Кролик",
+        "example": "Das Kaninchen frisst Karotten."
+      },
+      {
+        "word": "Wolf",
+        "translation": "Волк",
+        "example": "Der Wolf heult den Mond an."
+      }
+    ]
+  },
+  "Français": {
+    "Базовые слова": [
+      {
+        "word": "Bonjour",
+        "translation": "Здравствуйте",
+        "example": "Bonjour, comment allez-vous?"
+      },
+      {
+        "word": "Au revoir",
+        "translation": "До свидания",
+        "example": "Au revoir, à bientôt!"
+      },
+      {
+        "word": "Merci",
+        "translation": "Спасибо",
+        "example": "Merci beaucoup!"
+      },
+      {
+        "word": "S'il vous plaît",
+        "translation": "Пожалуйста",
+        "example": "Aidez-moi, s'il vous plaît."
+      },
+      {
+        "word": "Oui",
+        "translation": "Да",
+        "example": "Oui, je suis d'accord."
+      },
+      {
+        "word": "Non",
+        "translation": "Нет",
+        "example": "Non, merci."
+      },
+      {
+        "word": "Eau",
+        "translation": "Вода",
+        "example": "Je voudrais de l'eau."
+      },
+      {
+        "word": "Nourriture",
+        "translation": "Еда",
+        "example": "La nourriture est délicieuse."
+      },
+      {
+        "word": "Ami",
+        "translation": "Друг",
+        "example": "Il est mon meilleur ami."
+      },
+      {
+        "word": "Famille",
+        "translation": "Семья",
+        "example": "J'aime ma famille."
+      }
+    ],
+    "Животные": [
+      {
+        "word": "Chat",
+        "translation": "Кошка",
+        "example": "Le chat dort."
+      },
+      {
+        "word": "Chien",
+        "translation": "Собака",
+        "example": "Le chien court."
+      },
+      {
+        "word": "Oiseau",
+        "translation": "Птица",
+        "example": "L'oiseau chante."
+      },
+      {
+        "word": "Poisson",
+        "translation": "Рыба",
+        "example": "Le poisson nage dans la mer."
+      },
+      {
+        "word": "Cheval",
+        "translation": "Лошадь",
+        "example": "Le cheval court vite."
+      },
+      {
+        "word": "Éléphant",
+        "translation": "Слон",
+        "example": "L'éléphant est grand."
+      },
+      {
+        "word": "Lion",
+        "translation": "Лев",
+        "example": "Le lion est le roi des animaux."
+      },
+      {
+        "word": "Ours",
+        "translation": "Медведь",
+        "example": "L'ours vit dans la forêt."
+      },
+      {
+        "word": "Lapin",
+        "translation": "Кролик",
+        "example": "Le lapin mange des carottes."
+      },
+      {
+        "word": "Loup",
+        "translation": "Волк",
+        "example": "Le loup hurle à la lune."
+      }
+    ]
+  }
+}
